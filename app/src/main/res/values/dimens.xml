@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="mrg20">20dp</dimen>
+    <dimen name="mrg35">35dp</dimen>
+    <dimen name="mrg10">10dp</dimen>
+</resources>

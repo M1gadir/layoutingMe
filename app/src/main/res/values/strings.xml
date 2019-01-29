@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">layoutingMe</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Daftar</string>
+    <string name="todo">TODO</string>
+    <string name="retype_password">Ulangi Password</string>
+    <string name="email">Email</string>
+    <string name="last_name">Nama Belakang</string>
+    <string name="first_name">Nama Depan</string>
+    <string name="male">Laki Laki</string>
+    <string name="female">Perempuan</string>
+    <string name="login_now">Login Sekarang</string>
+    <string name="no_phone">No Phone</string>
+    <string name="todo">TODO</string>
+</resources>
